@@ -1,0 +1,4 @@
+#Tue Sep 22 12:40:38 CST 2020
+base.0=/Users/macname/Desktop/fluttertest/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
